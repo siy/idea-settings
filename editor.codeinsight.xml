@@ -1,0 +1,23 @@
+<application>
+  <component name="AdvancedExpressionFoldingSettings">
+    <option name="assertsCollapse" value="false" />
+    <option name="castExpressionsCollapse" value="false" />
+    <option name="checkExpressionsCollapse" value="false" />
+    <option name="compactControlFlowSyntaxCollapse" value="false" />
+    <option name="comparingExpressionsCollapse" value="false" />
+    <option name="concatenationExpressionsCollapse" value="false" />
+    <option name="getExpressionsCollapse" value="false" />
+    <option name="getSetExpressionsCollapse" value="false" />
+    <option name="rangeExpressionsCollapse" value="false" />
+    <option name="semicolonsCollapse" value="false" />
+    <option name="slicingExpressionsCollapse" value="false" />
+    <option name="varExpressionsCollapse" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+</application>
