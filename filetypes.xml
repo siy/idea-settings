@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".integration-test-redis" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerfile-build" type="PLAIN_TEXT" />
+      <mapping pattern=".integration-test-mysql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
