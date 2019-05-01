@@ -44,6 +44,30 @@
               <list>
                 <VFile>
                   <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.commons-lang.date" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/commons-lang.date.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/cassiuscai.commons-lang.date.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.assertj-core" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/assertj-core.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/cassiuscai.assertj-core.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.mockito" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/mockito.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/cassiuscai.mockito.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.guava-string" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/guava-string.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/cassiuscai.guava-string.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.LazySeq" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/LazySeq.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/java/xylo.LazySeq.postfixTemplates" />
@@ -130,6 +154,12 @@
             <value>
               <list>
                 <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="xylo.kantan" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/scala/kantan.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/scala/xylo.kantan.postfixTemplates" />
+                </VFile>
+                <VFile>
                   <option name="id" value="xylo.commons-logging" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/scala/commons-logging.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/scala/xylo.commons-logging.postfixTemplates" />
@@ -146,7 +176,7 @@
                 </VFile>
                 <VFile>
                   <option name="id" value="xylo.collections" />
-                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/collections.postfixTemplates" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/scala/collections.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/scala/xylo.collections.postfixTemplates" />
                 </VFile>
                 <VFile>
