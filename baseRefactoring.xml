@@ -5,7 +5,6 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="EXTRACT_INTERFACE_JAVADOC" value="1" />
-    <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_VAR_TYPE" value="true" />
