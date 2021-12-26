@@ -1,0 +1,20 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.PRP_MD_NN" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="But" />
+            <option value="Memory address with" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>

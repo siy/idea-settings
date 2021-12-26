@@ -1,10 +1,13 @@
 <application>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
   <component name="EditorSettings">
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.asciidoc" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />

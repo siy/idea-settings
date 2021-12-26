@@ -36,6 +36,11 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="org.junit.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="com.intellij.rt.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
@@ -71,33 +76,38 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="kotlin.*" />
+      <option name="PATTERN" value="org.mockito.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="kotlin.*" />
+      <option name="PATTERN" value="org.pfj.lang.Option" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="kotlin.*" />
+      <option name="PATTERN" value="org.pfj.lang.Result" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
-  </component>
-  <component name="NodeRendererSettings">
-    <Renderer ID="PrimitiveRenderer">
-      <option name="SHOW_HEX_VALUE" value="true" />
-    </Renderer>
+    <filter>
+      <option name="PATTERN" value="org.pfj.lang.Option.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.pfj.lang.Result.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
     <debuggers>
-      <debugger id="kotlin_debugger">
+      <debugger id="javascript">
         <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
