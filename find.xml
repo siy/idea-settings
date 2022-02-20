@@ -9,5 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.java</mask>
     <mask>*.h</mask>
+    <mask>*.c</mask>
   </component>
 </application>
