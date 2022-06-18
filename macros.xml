@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorDelete" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineStart" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="me.laria.code.idea_caseconv.ScreamingSnakeCaseAction" />
+    </macro>
+  </component>
+</application>
